@@ -1,2 +1,5 @@
 ### Connect with me
-[![Instagram](https://img.shields.io/badge/@INSTAGRAM_ID-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c_h9ni)
+<a href="https://instagram.com/c_h9ni">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="28" />
+  @c_h9ni
+</a>
