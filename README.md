@@ -12,3 +12,6 @@
 ### 📊 GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choihanni27&show_icons=true&theme=rose_pine)
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=네아이디&show_icons=true&theme=rose_pine)
+
+
