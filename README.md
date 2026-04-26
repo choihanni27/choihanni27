@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A7D8FF&height=300&section=header&text=Hanni%20Choi&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
 <div align = "center">
-  
-# Hello, I'm Hanni☺️
 
 [![Hits](https://hit-me-up-336ec.web.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fchoihanni27&title=hits&title_bg=caddf2&count_bg=92b5ed&edge_flat=false)](https://hit-me-up-336ec.web.app)
 
