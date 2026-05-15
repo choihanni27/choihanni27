@@ -3,8 +3,6 @@
 </p>
 <div align = "center">
 
-[![Hits](https://hit-me-up-336ec.web.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Fchoihanni27&title=hits&title_bg=caddf2&count_bg=92b5ed&edge_flat=false)](https://hit-me-up-336ec.web.app)
-
 <h2 align="center">📚 Studying 📚</h2>
 
 <p align="center">
