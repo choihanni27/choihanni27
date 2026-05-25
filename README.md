@@ -37,11 +37,6 @@
     <img
       src="https://img.shields.io/badge/Gmail-A7D8FF?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-    
-  <a href="https://instagram.com/c_h9ni">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-  </a>
 </div>
 
 <p align="center">
