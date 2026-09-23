@@ -5,7 +5,25 @@
 
 <h2 align="center">📚 Studying 📚</h2>
 
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=choihanni27&utm_content=farm">
+<p align="center">
+<img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
+
+
+
+  <img
+    src="https://render.gitanimals.org/farms/choihanni27"
+    width="1000"
+    height="400"
+  />
+</a>
 
 ---
 
